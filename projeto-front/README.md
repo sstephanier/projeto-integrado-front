@@ -1,5 +1,13 @@
 projeto-beck-end:  https://github.com/sstephanier/projeto-integrado-back
 
+Link do Postman: https://documenter.getpostman.com/view/25826649/2s93mATewc
+Deploy do Back : https://deploy-labedit-back.onrender.com
+
+Link do front: https://github.com/sstephanier/projeto-integrado-front
+Link do Surge : projeto-integrado-front-sstephanie.surge.sh
+
+- Maria Stephanie Rodrigues Pereira
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
